@@ -58,7 +58,6 @@ class Main:
         r = round(recall_score(y_true, y_pred), 2)
         f = round(f1_score(y_true, y_pred), 2)
         self.append_rows_to_csv([(model, a, p, r, f)])
-        # print(model, 'Accuracy : ', a,' Precision : ', p, ' Recall : ', r, ' F1-score : ', f)
 
 
     def select_classifiers(self):
