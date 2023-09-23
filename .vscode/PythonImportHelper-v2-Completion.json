@@ -1,0 +1,267 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Graph",
+        "importPath": "rdflib",
+        "description": "rdflib",
+        "isExtraImport": true,
+        "detail": "rdflib",
+        "documentation": {}
+    },
+    {
+        "label": "ComputeFile",
+        "importPath": "compute_files",
+        "description": "compute_files",
+        "isExtraImport": true,
+        "detail": "compute_files",
+        "documentation": {}
+    },
+    {
+        "label": "ComputeFile",
+        "importPath": "compute_files",
+        "description": "compute_files",
+        "isExtraImport": true,
+        "detail": "compute_files",
+        "documentation": {}
+    },
+    {
+        "label": "ComputeFile",
+        "importPath": "compute_files",
+        "description": "compute_files",
+        "isExtraImport": true,
+        "detail": "compute_files",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "ticker",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "ticker",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "lazypredict",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "lazypredict",
+        "description": "lazypredict",
+        "detail": "lazypredict",
+        "documentation": {}
+    },
+    {
+        "label": "LazyClassifier",
+        "importPath": "lazypredict.Supervised",
+        "description": "lazypredict.Supervised",
+        "isExtraImport": true,
+        "detail": "lazypredict.Supervised",
+        "documentation": {}
+    },
+    {
+        "label": "CLASSIFIERS",
+        "importPath": "lazypredict.Supervised",
+        "description": "lazypredict.Supervised",
+        "isExtraImport": true,
+        "detail": "lazypredict.Supervised",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "ComputeFile",
+        "kind": 6,
+        "importPath": "compute_files",
+        "description": "compute_files",
+        "peekOfCode": "class ComputeFile: \n    def __init__(self, input_path='', output_path=''):\n        self.input_path = input_path\n        self.output_path = output_path\n        self.input_files = []\n        self.output_files = []\n        self.extensions = ['.csv']\n    def accept_extension(self, file='') :\n        for ext in self.extensions :\n            if file.endswith(ext) :",
+        "detail": "compute_files",
+        "documentation": {}
+    },
+    {
+        "label": "Main",
+        "kind": 6,
+        "importPath": "histogram",
+        "description": "histogram",
+        "peekOfCode": "class Main: \n    def __init__(self, input_path='', output_path='', suffix=''):\n        self.input_path = input_path\n        self.output_path = output_path\n        self.suffix = suffix\n        self.dimensions = [i*10 for i in range(1, 6)]\n        self.classifiers = [\"AdaBoostClassifier\", \"RandomForestClassifier\",    \"XGBClassifier\",    \"ExtraTreesClassifier\", \"LogisticRegression\", \"SVC\", \"KNeighborsClassifier\", \"DecisionTreeClassifier\",    \"GaussianNB\",    \"LGBMClassifier\"]\n        self.class_by_dim = {}\n        self.start_time = time.time()\n    def plot_data(self, data=[], metric=''):",
+        "detail": "histogram",
+        "documentation": {}
+    },
+    {
+        "label": "Main",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class Main: \n    def __init__(self, input_path='', output_path='', suffix=''):\n        self.input_path = input_path + suffix + '/feature_vector/'\n        self.output_path = output_path + suffix + '/'\n        self.suffix = suffix\n        files = ComputeFile(input_path=self.input_path).build_list_files()\n        test_file = self.filter(keyword='test', all=files)\n        self.test_data = self.read_csv(test_file)\n        train_file = self.filter(keyword='train', all=files)\n        self.train_data = self.read_csv(train_file)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "Main",
+        "kind": 6,
+        "importPath": "sota",
+        "description": "sota",
+        "peekOfCode": "class Main: \n    def __init__(self, input_path='', output_path='', suffix=''):\n        self.input_path = input_path + suffix + '/feature_vector/'\n        self.output_path = output_path + suffix + '/'\n        self.suffix = suffix\n        files = ComputeFile(input_path=self.input_path).build_list_files()\n        test_file = self.filter(keyword='test', all=files)\n        self.test_data = self.read_csv(test_file)\n        train_file = self.filter(keyword='train', all=files)\n        self.train_data = self.read_csv(train_file)",
+        "detail": "sota",
+        "documentation": {}
+    },
+    {
+        "label": "coins",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "coins = ['penny', 'nickle', 'dime', 'quarter', 'bill']\nworth = np.array([.01, .05, .10, .25, 0.4])\n# Coin values times *n* coins\n#    This controls how many bars we get in each group\nvalues = [worth for i in range(1,8)]\nprint(values)\nn = len(values)                # Number of bars to plot\nw = .15                        # With of each column\nx = np.arange(0, len(coins))   # Center position of group on x axis\nfor i, value in enumerate(values):",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "worth",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "worth = np.array([.01, .05, .10, .25, 0.4])\n# Coin values times *n* coins\n#    This controls how many bars we get in each group\nvalues = [worth for i in range(1,8)]\nprint(values)\nn = len(values)                # Number of bars to plot\nw = .15                        # With of each column\nx = np.arange(0, len(coins))   # Center position of group on x axis\nfor i, value in enumerate(values):\n    position = x + (w*(1-n)/2) + i*w",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "values",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "values = [worth for i in range(1,8)]\nprint(values)\nn = len(values)                # Number of bars to plot\nw = .15                        # With of each column\nx = np.arange(0, len(coins))   # Center position of group on x axis\nfor i, value in enumerate(values):\n    position = x + (w*(1-n)/2) + i*w\n    print(len(position), len(value))\n    plt.bar(position, value, width=w, label=f'{i+1}x')\nplt.xticks(x, coins)",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "n = len(values)                # Number of bars to plot\nw = .15                        # With of each column\nx = np.arange(0, len(coins))   # Center position of group on x axis\nfor i, value in enumerate(values):\n    position = x + (w*(1-n)/2) + i*w\n    print(len(position), len(value))\n    plt.bar(position, value, width=w, label=f'{i+1}x')\nplt.xticks(x, coins)\nplt.ylabel('Monetary Value')\nplt.gca().yaxis.set_major_formatter(ticker.FormatStrFormatter('$%.2f'))",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "w",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "w = .15                        # With of each column\nx = np.arange(0, len(coins))   # Center position of group on x axis\nfor i, value in enumerate(values):\n    position = x + (w*(1-n)/2) + i*w\n    print(len(position), len(value))\n    plt.bar(position, value, width=w, label=f'{i+1}x')\nplt.xticks(x, coins)\nplt.ylabel('Monetary Value')\nplt.gca().yaxis.set_major_formatter(ticker.FormatStrFormatter('$%.2f'))\nplt.legend()",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "x = np.arange(0, len(coins))   # Center position of group on x axis\nfor i, value in enumerate(values):\n    position = x + (w*(1-n)/2) + i*w\n    print(len(position), len(value))\n    plt.bar(position, value, width=w, label=f'{i+1}x')\nplt.xticks(x, coins)\nplt.ylabel('Monetary Value')\nplt.gca().yaxis.set_major_formatter(ticker.FormatStrFormatter('$%.2f'))\nplt.legend()\nplt.show()",
+        "detail": "test",
+        "documentation": {}
+    }
+]
