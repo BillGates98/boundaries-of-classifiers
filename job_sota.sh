@@ -16,4 +16,8 @@
 # python3 ./sota.py --input_path ./data/ --output_path ./outputs/ --suffix anatomy-40
 # python3 ./sota.py --input_path ./data/ --output_path ./outputs/ --suffix anatomy-50
 
-python3 ./histogram.py --input_path ./outputs/ --output_path ./outputs/ --suffix anatomy
+python3 ./sota.py --input_path ./data/node2vec/ --output_path ./outputs/node2vec/ --suffix /doremus-10
+python3 ./sota.py --input_path ./data/node2vec/ --output_path ./outputs/node2vec/ --suffix /doremus-20
+python3 ./sota.py --input_path ./data/node2vec/ --output_path ./outputs/node2vec/ --suffix /doremus-30
+python3 ./sota.py --input_path ./data/node2vec/ --output_path ./outputs/node2vec/ --suffix /doremus-40
+python3 ./sota.py --input_path ./data/node2vec/ --output_path ./outputs/node2vec/ --suffix /doremus-50
