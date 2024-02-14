@@ -16,8 +16,18 @@
 # python3 ./sota.py --input_path ./data/ --output_path ./outputs/ --suffix anatomy-40
 # python3 ./sota.py --input_path ./data/ --output_path ./outputs/ --suffix anatomy-50
 
-python3 ./sota.py --input_path ./data/node2vec/ --output_path ./outputs/node2vec/ --suffix /doremus-10
-python3 ./sota.py --input_path ./data/node2vec/ --output_path ./outputs/node2vec/ --suffix /doremus-20
-python3 ./sota.py --input_path ./data/node2vec/ --output_path ./outputs/node2vec/ --suffix /doremus-30
-python3 ./sota.py --input_path ./data/node2vec/ --output_path ./outputs/node2vec/ --suffix /doremus-40
-python3 ./sota.py --input_path ./data/node2vec/ --output_path ./outputs/node2vec/ --suffix /doremus-50
+for dataset in 'anatomy' 'doremus' 'SPIMBENCH_large-2016' 'SPIMBENCH_small-2019' 'UOBM_small-2016'
+# for dataset in 'SPIMBENCH_large-2016' 'SPIMBENCH_small-2019'
+do
+    for dim in 10 20 30 40 50
+    do
+        python3 ./sota.py --input_path ./data/word2vec/ --output_path ./outputs/ --suffix /$dataset-$dim
+        # exit
+    done
+done
+
+# python3 ./sota.py --input_path ./data/node2vec/ --output_path ./outputs/node2vec/ --suffix /doremus-10
+# python3 ./sota.py --input_path ./data/node2vec/ --output_path ./outputs/node2vec/ --suffix /doremus-20
+# python3 ./sota.py --input_path ./data/node2vec/ --output_path ./outputs/node2vec/ --suffix /doremus-30
+# python3 ./sota.py --input_path ./data/node2vec/ --output_path ./outputs/node2vec/ --suffix /doremus-40
+# python3 ./sota.py --input_path ./data/node2vec/ --output_path ./outputs/node2vec/ --suffix /doremus-50

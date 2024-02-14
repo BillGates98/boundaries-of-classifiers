@@ -1,0 +1,10 @@
+Model,Accuracy,Precision,Recall,F1-score
+AdaBoostClassifier,0.65,0.33,0.05,0.08
+DecisionTreeClassifier,0.54,0.32,0.35,0.33
+ExtraTreeClassifier,0.56,0.34,0.33,0.33
+GaussianNB,0.66,0.33,0.0,0.01
+KNeighborsClassifier,0.57,0.25,0.15,0.19
+LogisticRegression,0.67,0.0,0.0,0.0
+RandomForestClassifier,0.66,0.26,0.01,0.02
+SVC,0.67,0.0,0.0,0.0
+XGBClassifier,0.61,0.34,0.16,0.22

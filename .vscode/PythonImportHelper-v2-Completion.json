@@ -1,5 +1,637 @@
 [
     {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "Value",
+        "importPath": "micrograd.engine",
+        "description": "micrograd.engine",
+        "isExtraImport": true,
+        "detail": "micrograd.engine",
+        "documentation": {}
+    },
+    {
+        "label": "Value",
+        "importPath": "micrograd.engine",
+        "description": "micrograd.engine",
+        "isExtraImport": true,
+        "detail": "micrograd.engine",
+        "documentation": {}
+    },
+    {
+        "label": "Value",
+        "importPath": "micrograd.engine",
+        "description": "micrograd.engine",
+        "isExtraImport": true,
+        "detail": "micrograd.engine",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "factorial",
+        "importPath": "scipy.special",
+        "description": "scipy.special",
+        "isExtraImport": true,
+        "detail": "scipy.special",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "pi",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "pi",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "pi",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "pi",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "pi",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "Wave",
+        "importPath": "bearer",
+        "description": "bearer",
+        "isExtraImport": true,
+        "detail": "bearer",
+        "documentation": {}
+    },
+    {
+        "label": "Wave",
+        "importPath": "bearer",
+        "description": "bearer",
+        "isExtraImport": true,
+        "detail": "bearer",
+        "documentation": {}
+    },
+    {
+        "label": "Wave",
+        "importPath": "bearer",
+        "description": "bearer",
+        "isExtraImport": true,
+        "detail": "bearer",
+        "documentation": {}
+    },
+    {
+        "label": "copy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "copy",
+        "description": "copy",
+        "detail": "copy",
+        "documentation": {}
+    },
+    {
+        "label": "Neuron",
+        "importPath": "micrograd.nn",
+        "description": "micrograd.nn",
+        "isExtraImport": true,
+        "detail": "micrograd.nn",
+        "documentation": {}
+    },
+    {
+        "label": "Layer",
+        "importPath": "micrograd.nn",
+        "description": "micrograd.nn",
+        "isExtraImport": true,
+        "detail": "micrograd.nn",
+        "documentation": {}
+    },
+    {
+        "label": "MLP",
+        "importPath": "micrograd.nn",
+        "description": "micrograd.nn",
+        "isExtraImport": true,
+        "detail": "micrograd.nn",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "torch.optim",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.optim",
+        "description": "torch.optim",
+        "detail": "torch.optim",
+        "documentation": {}
+    },
+    {
+        "label": "linregress",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "Axes3D",
+        "importPath": "mpl_toolkits.mplot3d",
+        "description": "mpl_toolkits.mplot3d",
+        "isExtraImport": true,
+        "detail": "mpl_toolkits.mplot3d",
+        "documentation": {}
+    },
+    {
         "label": "os",
         "kind": 6,
         "isExtraImport": true,
@@ -76,32 +708,6 @@
         "documentation": {}
     },
     {
-        "label": "numpy",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "numpy",
-        "description": "numpy",
-        "detail": "numpy",
-        "documentation": {}
-    },
-    {
-        "label": "matplotlib.pyplot",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "matplotlib.pyplot",
-        "description": "matplotlib.pyplot",
-        "detail": "matplotlib.pyplot",
-        "documentation": {}
-    },
-    {
-        "label": "ticker",
-        "importPath": "matplotlib",
-        "description": "matplotlib",
-        "isExtraImport": true,
-        "detail": "matplotlib",
-        "documentation": {}
-    },
-    {
         "label": "ticker",
         "importPath": "matplotlib",
         "description": "matplotlib",
@@ -135,6 +741,22 @@
         "documentation": {}
     },
     {
+        "label": "LazyClassifier",
+        "importPath": "lazypredict.Supervised",
+        "description": "lazypredict.Supervised",
+        "isExtraImport": true,
+        "detail": "lazypredict.Supervised",
+        "documentation": {}
+    },
+    {
+        "label": "CLASSIFIERS",
+        "importPath": "lazypredict.Supervised",
+        "description": "lazypredict.Supervised",
+        "isExtraImport": true,
+        "detail": "lazypredict.Supervised",
+        "documentation": {}
+    },
+    {
         "label": "train_test_split",
         "importPath": "sklearn.model_selection",
         "description": "sklearn.model_selection",
@@ -143,35 +765,1107 @@
         "documentation": {}
     },
     {
-        "label": "accuracy_score",
-        "importPath": "sklearn.metrics",
-        "description": "sklearn.metrics",
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
         "isExtraImport": true,
-        "detail": "sklearn.metrics",
+        "detail": "sklearn.model_selection",
         "documentation": {}
     },
     {
-        "label": "f1_score",
-        "importPath": "sklearn.metrics",
-        "description": "sklearn.metrics",
+        "label": "PolClassifier",
+        "importPath": "poleClassifier",
+        "description": "poleClassifier",
         "isExtraImport": true,
-        "detail": "sklearn.metrics",
+        "detail": "poleClassifier",
         "documentation": {}
     },
     {
-        "label": "recall_score",
-        "importPath": "sklearn.metrics",
-        "description": "sklearn.metrics",
+        "label": "Architecture",
+        "importPath": "architecture",
+        "description": "architecture",
         "isExtraImport": true,
-        "detail": "sklearn.metrics",
+        "detail": "architecture",
         "documentation": {}
     },
     {
-        "label": "precision_score",
-        "importPath": "sklearn.metrics",
-        "description": "sklearn.metrics",
-        "isExtraImport": true,
-        "detail": "sklearn.metrics",
+        "label": "Value",
+        "kind": 6,
+        "importPath": "micrograd..ipynb_checkpoints.engine-checkpoint",
+        "description": "micrograd..ipynb_checkpoints.engine-checkpoint",
+        "peekOfCode": "class Value:\n    \"\"\" stores a single scalar value and its gradient \"\"\"\n    def __init__(self, data, _children=(), _op=''):\n        self.data = data\n        self.grad = 0\n        # internal variables used for autograd graph construction\n        self._backward = lambda: None\n        self._prev = set(_children)\n        self._op = _op # the op that produced this node, for graphviz / debugging / etc\n    def __add__(self, other):",
+        "detail": "micrograd..ipynb_checkpoints.engine-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "Module",
+        "kind": 6,
+        "importPath": "micrograd..ipynb_checkpoints.nn-checkpoint",
+        "description": "micrograd..ipynb_checkpoints.nn-checkpoint",
+        "peekOfCode": "class Module:\n    def zero_grad(self):\n        for p in self.parameters():\n            p.grad = 0\n    def parameters(self):\n        return []\nclass Neuron(Module):\n    def __init__(self, nin, nonlin=True):\n        self.w = [Value(random.uniform(-1,1)) for _ in range(nin)]\n        self.b = Value(0)",
+        "detail": "micrograd..ipynb_checkpoints.nn-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "Neuron",
+        "kind": 6,
+        "importPath": "micrograd..ipynb_checkpoints.nn-checkpoint",
+        "description": "micrograd..ipynb_checkpoints.nn-checkpoint",
+        "peekOfCode": "class Neuron(Module):\n    def __init__(self, nin, nonlin=True):\n        self.w = [Value(random.uniform(-1,1)) for _ in range(nin)]\n        self.b = Value(0)\n        self.nonlin = nonlin\n    def __call__(self, x):\n        act = sum((wi*xi for wi,xi in zip(self.w, x)), self.b)\n        return act.relu() if self.nonlin else act\n    def parameters(self):\n        return self.w + [self.b]",
+        "detail": "micrograd..ipynb_checkpoints.nn-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "Layer",
+        "kind": 6,
+        "importPath": "micrograd..ipynb_checkpoints.nn-checkpoint",
+        "description": "micrograd..ipynb_checkpoints.nn-checkpoint",
+        "peekOfCode": "class Layer(Module):\n    def __init__(self, nin, nout, **kwargs):\n        self.neurons = [Neuron(nin, **kwargs) for _ in range(nout)]\n    def __call__(self, x):\n        out = [n(x) for n in self.neurons]\n        return out[0] if len(out) == 1 else out\n    def parameters(self):\n        return [p for n in self.neurons for p in n.parameters()]\n    def __repr__(self):\n        return f\"Layer of [{', '.join(str(n) for n in self.neurons)}]\"",
+        "detail": "micrograd..ipynb_checkpoints.nn-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "MLP",
+        "kind": 6,
+        "importPath": "micrograd..ipynb_checkpoints.nn-checkpoint",
+        "description": "micrograd..ipynb_checkpoints.nn-checkpoint",
+        "peekOfCode": "class MLP(Module):\n    def __init__(self, nin, nouts):\n        sz = [nin] + nouts\n        self.layers = [Layer(sz[i], sz[i+1], nonlin=i!=len(nouts)-1) for i in range(len(nouts))]\n    def __call__(self, x):\n        for layer in self.layers:\n            x = layer(x)\n        return x\n    def parameters(self):\n        return [p for layer in self.layers for p in layer.parameters()]",
+        "detail": "micrograd..ipynb_checkpoints.nn-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "Value",
+        "kind": 6,
+        "importPath": "micrograd.engine",
+        "description": "micrograd.engine",
+        "peekOfCode": "class Value:\n    \"\"\" stores a single scalar value and its gradient \"\"\"\n    def __init__(self, data, _children=(), _op=''):\n        self.data = data\n        self.grad = 0\n        # internal variables used for autograd graph construction\n        self._backward = lambda: None\n        self._prev = set(_children)\n        self._op = _op # the op that produced this node, for graphviz / debugging / etc\n    def __add__(self, other):",
+        "detail": "micrograd.engine",
+        "documentation": {}
+    },
+    {
+        "label": "Module",
+        "kind": 6,
+        "importPath": "micrograd.nn",
+        "description": "micrograd.nn",
+        "peekOfCode": "class Module:\n    def zero_grad(self):\n        for p in self.parameters():\n            p.grad = 0\n    def parameters(self):\n        return []\nclass Neuron(Module):\n    def __init__(self, nin, nonlin=True):\n        self.w = [Value(random.uniform(-1,1)) for _ in range(nin)]\n        self.b = Value(0)",
+        "detail": "micrograd.nn",
+        "documentation": {}
+    },
+    {
+        "label": "Neuron",
+        "kind": 6,
+        "importPath": "micrograd.nn",
+        "description": "micrograd.nn",
+        "peekOfCode": "class Neuron(Module):\n    def __init__(self, nin, nonlin=True):\n        self.w = [Value(random.uniform(-1,1)) for _ in range(nin)]\n        self.b = Value(0)\n        self.nonlin = nonlin\n    def __call__(self, x):\n        act = sum((wi*xi for wi,xi in zip(self.w, x)), self.b)\n        return act.relu() if self.nonlin else act\n    def parameters(self):\n        return self.w + [self.b]",
+        "detail": "micrograd.nn",
+        "documentation": {}
+    },
+    {
+        "label": "Layer",
+        "kind": 6,
+        "importPath": "micrograd.nn",
+        "description": "micrograd.nn",
+        "peekOfCode": "class Layer(Module):\n    def __init__(self, nin, nout, **kwargs):\n        self.neurons = [Neuron(nin, **kwargs) for _ in range(nout)]\n    def __call__(self, x):\n        out = [n(x) for n in self.neurons]\n        return out[0] if len(out) == 1 else out\n    def parameters(self):\n        return [p for n in self.neurons for p in n.parameters()]\n    def __repr__(self):\n        return f\"Layer of [{', '.join(str(n) for n in self.neurons)}]\"",
+        "detail": "micrograd.nn",
+        "documentation": {}
+    },
+    {
+        "label": "MLP",
+        "kind": 6,
+        "importPath": "micrograd.nn",
+        "description": "micrograd.nn",
+        "peekOfCode": "class MLP(Module):\n    def __init__(self, nin, nouts):\n        sz = [nin] + nouts\n        self.layers = [Layer(sz[i], sz[i+1], nonlin=i!=len(nouts)-1) for i in range(len(nouts))]\n    def __call__(self, x):\n        for layer in self.layers:\n            x = layer(x)\n        return x\n    def parameters(self):\n        return [p for layer in self.layers for p in layer.parameters()]",
+        "detail": "micrograd.nn",
+        "documentation": {}
+    },
+    {
+        "label": "Wave",
+        "kind": 6,
+        "importPath": "tmp.bearer",
+        "description": "tmp.bearer",
+        "peekOfCode": "class Wave:\n    def __init__(self, x=[]):\n        self.x = x\n    def sigmoid(self, z):\n        return 1 / ( 1 + np.exp(-z))\n    def c(self):\n        output = []\n        for i in range(len(self.x)) :\n            t = self.x[i]\n            value = np.cos(t*np.pi+1) # / ( 1 + np.exp(t))",
+        "detail": "tmp.bearer",
+        "documentation": {}
+    },
+    {
+        "label": "PoleClassifier",
+        "kind": 6,
+        "importPath": "tmp.poleClassifier copy 2",
+        "description": "tmp.poleClassifier copy 2",
+        "peekOfCode": "class PoleClassifier:\n    def __init__(self, X_train, X_test, y_train, y_test):\n        print('Pole Classifier')\n        self.X_train = [ self.normalize_features(X) for X in X_train]\n        self.X_test = [ self.normalize_features(X) for X in X_test]\n        self.y_train = y_train\n        self.y_test = y_test\n    def draw_cuve(self, x, y, title, label_x, label_y):\n        plt.figure(figsize=(8, 6))\n        plt.plot(x, y, label=label_y)",
+        "detail": "tmp.poleClassifier copy 2",
+        "documentation": {}
+    },
+    {
+        "label": "PoleClassifier",
+        "kind": 6,
+        "importPath": "tmp.poleClassifier copy 3",
+        "description": "tmp.poleClassifier copy 3",
+        "peekOfCode": "class PoleClassifier:\n    def __init__(self, X_train, X_test, y_train, y_test):\n        print('Pole Classifier')\n        self.y_train = y_train\n        self.y_test = y_test\n        self.X_train = [ self.normalize_features(X_train[index], y_train[index]) for index in range(len(X_train))]\n        self.X_test = X_test # [ self.normalize_features(X_test[index], 0) for index in range(len(X_test))]\n    def draw_cuve(self, x, y, title, label_x, label_y):\n        plt.figure(figsize=(8, 6))\n        plt.plot(x, y, label=label_y)",
+        "detail": "tmp.poleClassifier copy 3",
+        "documentation": {}
+    },
+    {
+        "label": "PoleClassifier",
+        "kind": 6,
+        "importPath": "tmp.poleClassifier copy 4",
+        "description": "tmp.poleClassifier copy 4",
+        "peekOfCode": "class PoleClassifier:\n    def __init__(self, X_train, X_test, y_train, y_test):\n        print('Pole Classifier')\n        self.y_train = y_train\n        self.y_test = y_test\n        self.X_train = [ self.normalize_features(X_train[index], y_train[index]) for index in range(len(X_train))]\n        self.X_test = X_test # [ self.normalize_features(X_test[index], 0) for index in range(len(X_test))]\n    def draw_cuve(self, x, y, title, label_x, label_y):\n        plt.figure(figsize=(8, 6))\n        plt.plot(x, y, label=label_y)",
+        "detail": "tmp.poleClassifier copy 4",
+        "documentation": {}
+    },
+    {
+        "label": "PoleClassifier",
+        "kind": 6,
+        "importPath": "tmp.poleClassifier copy",
+        "description": "tmp.poleClassifier copy",
+        "peekOfCode": "class PoleClassifier:\n    def __init__(self, X_train, X_test, y_train, y_test):\n        print('Pole Classifier')\n        sys.setrecursionlimit(2000)\n        self.y_train = y_train\n        self.y_test = y_test\n        m = int(len(X_train[0])/4)\n        print(' #### ', len(X_train[0]))\n        # self.X_train = X_train\n        self.X_train = [ self.reduce_dimension(X, m) for X in X_train]",
+        "detail": "tmp.poleClassifier copy",
+        "documentation": {}
+    },
+    {
+        "label": "EncoderDecoderBinaryClassifier",
+        "kind": 6,
+        "importPath": "tmp.test copy 2",
+        "description": "tmp.test copy 2",
+        "peekOfCode": "class EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network\n        self.encoder = nn.Sequential(\n            nn.Linear(input_dim, hidden_dim),\n            nn.ReLU(),\n            nn.Linear(hidden_dim, hidden_dim),\n            nn.ReLU()\n        )",
+        "detail": "tmp.test copy 2",
+        "documentation": {}
+    },
+    {
+        "label": "input_dim",
+        "kind": 5,
+        "importPath": "tmp.test copy 2",
+        "description": "tmp.test copy 2",
+        "peekOfCode": "input_dim = 100  # Dimensionality of input features\nnum_samples = 1000  # Number of training samples\nhidden_dim = 64\noutput_dim = 1  # Binary classification, so output dimension is 1\n# Generate random input data and labels for the example\ninputs = torch.randn(num_samples, input_dim)\nlabels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200",
+        "detail": "tmp.test copy 2",
+        "documentation": {}
+    },
+    {
+        "label": "num_samples",
+        "kind": 5,
+        "importPath": "tmp.test copy 2",
+        "description": "tmp.test copy 2",
+        "peekOfCode": "num_samples = 1000  # Number of training samples\nhidden_dim = 64\noutput_dim = 1  # Binary classification, so output dimension is 1\n# Generate random input data and labels for the example\ninputs = torch.randn(num_samples, input_dim)\nlabels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)",
+        "detail": "tmp.test copy 2",
+        "documentation": {}
+    },
+    {
+        "label": "hidden_dim",
+        "kind": 5,
+        "importPath": "tmp.test copy 2",
+        "description": "tmp.test copy 2",
+        "peekOfCode": "hidden_dim = 64\noutput_dim = 1  # Binary classification, so output dimension is 1\n# Generate random input data and labels for the example\ninputs = torch.randn(num_samples, input_dim)\nlabels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,), dtype=torch.long)  # Binary labels (0 or 1)",
+        "detail": "tmp.test copy 2",
+        "documentation": {}
+    },
+    {
+        "label": "output_dim",
+        "kind": 5,
+        "importPath": "tmp.test copy 2",
+        "description": "tmp.test copy 2",
+        "peekOfCode": "output_dim = 1  # Binary classification, so output dimension is 1\n# Generate random input data and labels for the example\ninputs = torch.randn(num_samples, input_dim)\nlabels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,), dtype=torch.long)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)",
+        "detail": "tmp.test copy 2",
+        "documentation": {}
+    },
+    {
+        "label": "inputs",
+        "kind": 5,
+        "importPath": "tmp.test copy 2",
+        "description": "tmp.test copy 2",
+        "peekOfCode": "inputs = torch.randn(num_samples, input_dim)\nlabels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,), dtype=torch.long)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define the Encoder-Decoder binary classifier",
+        "detail": "tmp.test copy 2",
+        "documentation": {}
+    },
+    {
+        "label": "labels",
+        "kind": 5,
+        "importPath": "tmp.test copy 2",
+        "description": "tmp.test copy 2",
+        "peekOfCode": "labels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,), dtype=torch.long)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):",
+        "detail": "tmp.test copy 2",
+        "documentation": {}
+    },
+    {
+        "label": "input_dim",
+        "kind": 5,
+        "importPath": "tmp.test copy 2",
+        "description": "tmp.test copy 2",
+        "peekOfCode": "input_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,), dtype=torch.long)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):",
+        "detail": "tmp.test copy 2",
+        "documentation": {}
+    },
+    {
+        "label": "train_size",
+        "kind": 5,
+        "importPath": "tmp.test copy 2",
+        "description": "tmp.test copy 2",
+        "peekOfCode": "train_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,), dtype=torch.long)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()",
+        "detail": "tmp.test copy 2",
+        "documentation": {}
+    },
+    {
+        "label": "test_size",
+        "kind": 5,
+        "importPath": "tmp.test copy 2",
+        "description": "tmp.test copy 2",
+        "peekOfCode": "test_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,), dtype=torch.long)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network",
+        "detail": "tmp.test copy 2",
+        "documentation": {}
+    },
+    {
+        "label": "train_inputs",
+        "kind": 5,
+        "importPath": "tmp.test copy 2",
+        "description": "tmp.test copy 2",
+        "peekOfCode": "train_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,), dtype=torch.long)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network\n        self.encoder = nn.Sequential(",
+        "detail": "tmp.test copy 2",
+        "documentation": {}
+    },
+    {
+        "label": "train_labels",
+        "kind": 5,
+        "importPath": "tmp.test copy 2",
+        "description": "tmp.test copy 2",
+        "peekOfCode": "train_labels = torch.randint(0, 2, (train_size,), dtype=torch.long)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network\n        self.encoder = nn.Sequential(\n            nn.Linear(input_dim, hidden_dim),",
+        "detail": "tmp.test copy 2",
+        "documentation": {}
+    },
+    {
+        "label": "test_inputs",
+        "kind": 5,
+        "importPath": "tmp.test copy 2",
+        "description": "tmp.test copy 2",
+        "peekOfCode": "test_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network\n        self.encoder = nn.Sequential(\n            nn.Linear(input_dim, hidden_dim),\n            nn.ReLU(),",
+        "detail": "tmp.test copy 2",
+        "documentation": {}
+    },
+    {
+        "label": "test_labels",
+        "kind": 5,
+        "importPath": "tmp.test copy 2",
+        "description": "tmp.test copy 2",
+        "peekOfCode": "test_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network\n        self.encoder = nn.Sequential(\n            nn.Linear(input_dim, hidden_dim),\n            nn.ReLU(),\n            nn.Linear(hidden_dim, hidden_dim),",
+        "detail": "tmp.test copy 2",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "tmp.test copy 2",
+        "description": "tmp.test copy 2",
+        "peekOfCode": "model = EncoderDecoderBinaryClassifier(input_dim, hidden_dim, output_dim)\n# Define loss and optimizer\ncriterion = nn.BCELoss()  # Binary Cross-Entropy Loss\noptimizer = optim.Adam(model.parameters(), lr=0.001)\n# Training loop\nnum_epochs = 100  # Replace with the desired number of epochs\nfor epoch in range(num_epochs):\n    # Forward pass\n    reconstructed, logits = model(train_inputs)\n    # Compute loss",
+        "detail": "tmp.test copy 2",
+        "documentation": {}
+    },
+    {
+        "label": "criterion",
+        "kind": 5,
+        "importPath": "tmp.test copy 2",
+        "description": "tmp.test copy 2",
+        "peekOfCode": "criterion = nn.BCELoss()  # Binary Cross-Entropy Loss\noptimizer = optim.Adam(model.parameters(), lr=0.001)\n# Training loop\nnum_epochs = 100  # Replace with the desired number of epochs\nfor epoch in range(num_epochs):\n    # Forward pass\n    reconstructed, logits = model(train_inputs)\n    # Compute loss\n    loss = criterion(logits, train_labels)\n    # Backpropagation and optimization",
+        "detail": "tmp.test copy 2",
+        "documentation": {}
+    },
+    {
+        "label": "optimizer",
+        "kind": 5,
+        "importPath": "tmp.test copy 2",
+        "description": "tmp.test copy 2",
+        "peekOfCode": "optimizer = optim.Adam(model.parameters(), lr=0.001)\n# Training loop\nnum_epochs = 100  # Replace with the desired number of epochs\nfor epoch in range(num_epochs):\n    # Forward pass\n    reconstructed, logits = model(train_inputs)\n    # Compute loss\n    loss = criterion(logits, train_labels)\n    # Backpropagation and optimization\n    optimizer.zero_grad()",
+        "detail": "tmp.test copy 2",
+        "documentation": {}
+    },
+    {
+        "label": "num_epochs",
+        "kind": 5,
+        "importPath": "tmp.test copy 2",
+        "description": "tmp.test copy 2",
+        "peekOfCode": "num_epochs = 100  # Replace with the desired number of epochs\nfor epoch in range(num_epochs):\n    # Forward pass\n    reconstructed, logits = model(train_inputs)\n    # Compute loss\n    loss = criterion(logits, train_labels)\n    # Backpropagation and optimization\n    optimizer.zero_grad()\n    loss.backward()\n    optimizer.step()",
+        "detail": "tmp.test copy 2",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy",
+        "kind": 5,
+        "importPath": "tmp.test copy 2",
+        "description": "tmp.test copy 2",
+        "peekOfCode": "accuracy = accuracy_score(test_labels.numpy(), predicted_labels.numpy())\nprecision = precision_score(test_labels.numpy(), predicted_labels.numpy())\nrecall = recall_score(test_labels.numpy(), predicted_labels.numpy())\nf1 = f1_score(test_labels.numpy(), predicted_labels.numpy())\nprint(f\"Accuracy: {accuracy:.4f}\")\nprint(f\"Precision: {precision:.4f}\")\nprint(f\"Recall: {recall:.4f}\")\nprint(f\"F1-score: {f1:.4f}\")\n# # After training, you can use the model for inference\n# with torch.no_grad():",
+        "detail": "tmp.test copy 2",
+        "documentation": {}
+    },
+    {
+        "label": "precision",
+        "kind": 5,
+        "importPath": "tmp.test copy 2",
+        "description": "tmp.test copy 2",
+        "peekOfCode": "precision = precision_score(test_labels.numpy(), predicted_labels.numpy())\nrecall = recall_score(test_labels.numpy(), predicted_labels.numpy())\nf1 = f1_score(test_labels.numpy(), predicted_labels.numpy())\nprint(f\"Accuracy: {accuracy:.4f}\")\nprint(f\"Precision: {precision:.4f}\")\nprint(f\"Recall: {recall:.4f}\")\nprint(f\"F1-score: {f1:.4f}\")\n# # After training, you can use the model for inference\n# with torch.no_grad():\n#     test_inputs = torch.randn(10, input_dim)  # Example batch of test inputs",
+        "detail": "tmp.test copy 2",
+        "documentation": {}
+    },
+    {
+        "label": "recall",
+        "kind": 5,
+        "importPath": "tmp.test copy 2",
+        "description": "tmp.test copy 2",
+        "peekOfCode": "recall = recall_score(test_labels.numpy(), predicted_labels.numpy())\nf1 = f1_score(test_labels.numpy(), predicted_labels.numpy())\nprint(f\"Accuracy: {accuracy:.4f}\")\nprint(f\"Precision: {precision:.4f}\")\nprint(f\"Recall: {recall:.4f}\")\nprint(f\"F1-score: {f1:.4f}\")\n# # After training, you can use the model for inference\n# with torch.no_grad():\n#     test_inputs = torch.randn(10, input_dim)  # Example batch of test inputs\n#     _, predicted_logits = model(test_inputs)",
+        "detail": "tmp.test copy 2",
+        "documentation": {}
+    },
+    {
+        "label": "f1",
+        "kind": 5,
+        "importPath": "tmp.test copy 2",
+        "description": "tmp.test copy 2",
+        "peekOfCode": "f1 = f1_score(test_labels.numpy(), predicted_labels.numpy())\nprint(f\"Accuracy: {accuracy:.4f}\")\nprint(f\"Precision: {precision:.4f}\")\nprint(f\"Recall: {recall:.4f}\")\nprint(f\"F1-score: {f1:.4f}\")\n# # After training, you can use the model for inference\n# with torch.no_grad():\n#     test_inputs = torch.randn(10, input_dim)  # Example batch of test inputs\n#     _, predicted_logits = model(test_inputs)\n#     predicted_labels = (predicted_logits > 0.5).float()  # Convert logits to binary predictions",
+        "detail": "tmp.test copy 2",
+        "documentation": {}
+    },
+    {
+        "label": "BinaryClassifier",
+        "kind": 6,
+        "importPath": "tmp.test copy 3",
+        "description": "tmp.test copy 3",
+        "peekOfCode": "class BinaryClassifier(nn.Module):\n    def __init__(self, input_dim):\n        super(BinaryClassifier, self).__init__()\n        self.fc = nn.Linear(input_dim, 1)\n    def forward(self, x):\n        return torch.sigmoid(self.fc(x))\n# Create the model, loss function, and optimizer\nmodel = BinaryClassifier(input_dim)\ncriterion = nn.BCELoss()  # Binary Cross-Entropy Loss\noptimizer = optim.Adam(model.parameters(), lr=0.001)",
+        "detail": "tmp.test copy 3",
+        "documentation": {}
+    },
+    {
+        "label": "input_dim",
+        "kind": 5,
+        "importPath": "tmp.test copy 3",
+        "description": "tmp.test copy 3",
+        "peekOfCode": "input_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,), dtype=torch.long)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define your binary classifier model\nclass BinaryClassifier(nn.Module):\n    def __init__(self, input_dim):",
+        "detail": "tmp.test copy 3",
+        "documentation": {}
+    },
+    {
+        "label": "train_size",
+        "kind": 5,
+        "importPath": "tmp.test copy 3",
+        "description": "tmp.test copy 3",
+        "peekOfCode": "train_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,), dtype=torch.long)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define your binary classifier model\nclass BinaryClassifier(nn.Module):\n    def __init__(self, input_dim):\n        super(BinaryClassifier, self).__init__()",
+        "detail": "tmp.test copy 3",
+        "documentation": {}
+    },
+    {
+        "label": "test_size",
+        "kind": 5,
+        "importPath": "tmp.test copy 3",
+        "description": "tmp.test copy 3",
+        "peekOfCode": "test_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,), dtype=torch.long)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define your binary classifier model\nclass BinaryClassifier(nn.Module):\n    def __init__(self, input_dim):\n        super(BinaryClassifier, self).__init__()\n        self.fc = nn.Linear(input_dim, 1)",
+        "detail": "tmp.test copy 3",
+        "documentation": {}
+    },
+    {
+        "label": "train_inputs",
+        "kind": 5,
+        "importPath": "tmp.test copy 3",
+        "description": "tmp.test copy 3",
+        "peekOfCode": "train_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,), dtype=torch.long)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define your binary classifier model\nclass BinaryClassifier(nn.Module):\n    def __init__(self, input_dim):\n        super(BinaryClassifier, self).__init__()\n        self.fc = nn.Linear(input_dim, 1)\n    def forward(self, x):",
+        "detail": "tmp.test copy 3",
+        "documentation": {}
+    },
+    {
+        "label": "train_labels",
+        "kind": 5,
+        "importPath": "tmp.test copy 3",
+        "description": "tmp.test copy 3",
+        "peekOfCode": "train_labels = torch.randint(0, 2, (train_size,), dtype=torch.long)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define your binary classifier model\nclass BinaryClassifier(nn.Module):\n    def __init__(self, input_dim):\n        super(BinaryClassifier, self).__init__()\n        self.fc = nn.Linear(input_dim, 1)\n    def forward(self, x):\n        return torch.sigmoid(self.fc(x))",
+        "detail": "tmp.test copy 3",
+        "documentation": {}
+    },
+    {
+        "label": "test_inputs",
+        "kind": 5,
+        "importPath": "tmp.test copy 3",
+        "description": "tmp.test copy 3",
+        "peekOfCode": "test_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define your binary classifier model\nclass BinaryClassifier(nn.Module):\n    def __init__(self, input_dim):\n        super(BinaryClassifier, self).__init__()\n        self.fc = nn.Linear(input_dim, 1)\n    def forward(self, x):\n        return torch.sigmoid(self.fc(x))\n# Create the model, loss function, and optimizer",
+        "detail": "tmp.test copy 3",
+        "documentation": {}
+    },
+    {
+        "label": "test_labels",
+        "kind": 5,
+        "importPath": "tmp.test copy 3",
+        "description": "tmp.test copy 3",
+        "peekOfCode": "test_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define your binary classifier model\nclass BinaryClassifier(nn.Module):\n    def __init__(self, input_dim):\n        super(BinaryClassifier, self).__init__()\n        self.fc = nn.Linear(input_dim, 1)\n    def forward(self, x):\n        return torch.sigmoid(self.fc(x))\n# Create the model, loss function, and optimizer\nmodel = BinaryClassifier(input_dim)",
+        "detail": "tmp.test copy 3",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "tmp.test copy 3",
+        "description": "tmp.test copy 3",
+        "peekOfCode": "model = BinaryClassifier(input_dim)\ncriterion = nn.BCELoss()  # Binary Cross-Entropy Loss\noptimizer = optim.Adam(model.parameters(), lr=0.001)\n# Training loop\nnum_epochs = 1000  # Adjust as needed\nfor epoch in range(num_epochs):\n    optimizer.zero_grad()\n    outputs = model(train_inputs)\n    loss = criterion(outputs, train_labels.float().view(-1, 1))\n    loss.backward()",
+        "detail": "tmp.test copy 3",
+        "documentation": {}
+    },
+    {
+        "label": "criterion",
+        "kind": 5,
+        "importPath": "tmp.test copy 3",
+        "description": "tmp.test copy 3",
+        "peekOfCode": "criterion = nn.BCELoss()  # Binary Cross-Entropy Loss\noptimizer = optim.Adam(model.parameters(), lr=0.001)\n# Training loop\nnum_epochs = 1000  # Adjust as needed\nfor epoch in range(num_epochs):\n    optimizer.zero_grad()\n    outputs = model(train_inputs)\n    loss = criterion(outputs, train_labels.float().view(-1, 1))\n    loss.backward()\n    optimizer.step()",
+        "detail": "tmp.test copy 3",
+        "documentation": {}
+    },
+    {
+        "label": "optimizer",
+        "kind": 5,
+        "importPath": "tmp.test copy 3",
+        "description": "tmp.test copy 3",
+        "peekOfCode": "optimizer = optim.Adam(model.parameters(), lr=0.001)\n# Training loop\nnum_epochs = 1000  # Adjust as needed\nfor epoch in range(num_epochs):\n    optimizer.zero_grad()\n    outputs = model(train_inputs)\n    loss = criterion(outputs, train_labels.float().view(-1, 1))\n    loss.backward()\n    optimizer.step()\n# Evaluation on the test set",
+        "detail": "tmp.test copy 3",
+        "documentation": {}
+    },
+    {
+        "label": "num_epochs",
+        "kind": 5,
+        "importPath": "tmp.test copy 3",
+        "description": "tmp.test copy 3",
+        "peekOfCode": "num_epochs = 1000  # Adjust as needed\nfor epoch in range(num_epochs):\n    optimizer.zero_grad()\n    outputs = model(train_inputs)\n    loss = criterion(outputs, train_labels.float().view(-1, 1))\n    loss.backward()\n    optimizer.step()\n# Evaluation on the test set\nwith torch.no_grad():\n    test_outputs = model(test_inputs)",
+        "detail": "tmp.test copy 3",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy",
+        "kind": 5,
+        "importPath": "tmp.test copy 3",
+        "description": "tmp.test copy 3",
+        "peekOfCode": "accuracy = accuracy_score(test_labels.numpy(), predicted_labels.numpy())\nprecision = precision_score(test_labels.numpy(), predicted_labels.numpy())\nrecall = recall_score(test_labels.numpy(), predicted_labels.numpy())\nf1 = f1_score(test_labels.numpy(), predicted_labels.numpy())\nprint(f\"Accuracy: {accuracy:.4f}\")\nprint(f\"Precision: {precision:.4f}\")\nprint(f\"Recall: {recall:.4f}\")\nprint(f\"F1-score: {f1:.4f}\")",
+        "detail": "tmp.test copy 3",
+        "documentation": {}
+    },
+    {
+        "label": "precision",
+        "kind": 5,
+        "importPath": "tmp.test copy 3",
+        "description": "tmp.test copy 3",
+        "peekOfCode": "precision = precision_score(test_labels.numpy(), predicted_labels.numpy())\nrecall = recall_score(test_labels.numpy(), predicted_labels.numpy())\nf1 = f1_score(test_labels.numpy(), predicted_labels.numpy())\nprint(f\"Accuracy: {accuracy:.4f}\")\nprint(f\"Precision: {precision:.4f}\")\nprint(f\"Recall: {recall:.4f}\")\nprint(f\"F1-score: {f1:.4f}\")",
+        "detail": "tmp.test copy 3",
+        "documentation": {}
+    },
+    {
+        "label": "recall",
+        "kind": 5,
+        "importPath": "tmp.test copy 3",
+        "description": "tmp.test copy 3",
+        "peekOfCode": "recall = recall_score(test_labels.numpy(), predicted_labels.numpy())\nf1 = f1_score(test_labels.numpy(), predicted_labels.numpy())\nprint(f\"Accuracy: {accuracy:.4f}\")\nprint(f\"Precision: {precision:.4f}\")\nprint(f\"Recall: {recall:.4f}\")\nprint(f\"F1-score: {f1:.4f}\")",
+        "detail": "tmp.test copy 3",
+        "documentation": {}
+    },
+    {
+        "label": "f1",
+        "kind": 5,
+        "importPath": "tmp.test copy 3",
+        "description": "tmp.test copy 3",
+        "peekOfCode": "f1 = f1_score(test_labels.numpy(), predicted_labels.numpy())\nprint(f\"Accuracy: {accuracy:.4f}\")\nprint(f\"Precision: {precision:.4f}\")\nprint(f\"Recall: {recall:.4f}\")\nprint(f\"F1-score: {f1:.4f}\")",
+        "detail": "tmp.test copy 3",
+        "documentation": {}
+    },
+    {
+        "label": "EncoderDecoderBinaryClassifier",
+        "kind": 6,
+        "importPath": "tmp.test copy 4",
+        "description": "tmp.test copy 4",
+        "peekOfCode": "class EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network\n        self.encoder = nn.Sequential(\n            nn.Linear(input_dim, hidden_dim),\n            nn.ReLU(),\n            nn.Linear(hidden_dim, hidden_dim),\n            nn.ReLU()\n        )",
+        "detail": "tmp.test copy 4",
+        "documentation": {}
+    },
+    {
+        "label": "input_dim",
+        "kind": 5,
+        "importPath": "tmp.test copy 4",
+        "description": "tmp.test copy 4",
+        "peekOfCode": "input_dim = 100  # Dimensionality of input features\nnum_samples = 1000  # Number of training samples\nhidden_dim = 64\noutput_dim = 1  # Binary classification, so output dimension is 1\n# Generate random input data and labels for the example\ninputs = torch.randn(num_samples, input_dim)\nlabels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200",
+        "detail": "tmp.test copy 4",
+        "documentation": {}
+    },
+    {
+        "label": "num_samples",
+        "kind": 5,
+        "importPath": "tmp.test copy 4",
+        "description": "tmp.test copy 4",
+        "peekOfCode": "num_samples = 1000  # Number of training samples\nhidden_dim = 64\noutput_dim = 1  # Binary classification, so output dimension is 1\n# Generate random input data and labels for the example\ninputs = torch.randn(num_samples, input_dim)\nlabels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)",
+        "detail": "tmp.test copy 4",
+        "documentation": {}
+    },
+    {
+        "label": "hidden_dim",
+        "kind": 5,
+        "importPath": "tmp.test copy 4",
+        "description": "tmp.test copy 4",
+        "peekOfCode": "hidden_dim = 64\noutput_dim = 1  # Binary classification, so output dimension is 1\n# Generate random input data and labels for the example\ninputs = torch.randn(num_samples, input_dim)\nlabels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,1), dtype=torch.float32)  # Binary labels (0 or 1)",
+        "detail": "tmp.test copy 4",
+        "documentation": {}
+    },
+    {
+        "label": "output_dim",
+        "kind": 5,
+        "importPath": "tmp.test copy 4",
+        "description": "tmp.test copy 4",
+        "peekOfCode": "output_dim = 1  # Binary classification, so output dimension is 1\n# Generate random input data and labels for the example\ninputs = torch.randn(num_samples, input_dim)\nlabels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,1), dtype=torch.float32)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)",
+        "detail": "tmp.test copy 4",
+        "documentation": {}
+    },
+    {
+        "label": "inputs",
+        "kind": 5,
+        "importPath": "tmp.test copy 4",
+        "description": "tmp.test copy 4",
+        "peekOfCode": "inputs = torch.randn(num_samples, input_dim)\nlabels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,1), dtype=torch.float32)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,1), dtype=torch.float32)\n# Define the Encoder-Decoder binary classifier",
+        "detail": "tmp.test copy 4",
+        "documentation": {}
+    },
+    {
+        "label": "labels",
+        "kind": 5,
+        "importPath": "tmp.test copy 4",
+        "description": "tmp.test copy 4",
+        "peekOfCode": "labels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,1), dtype=torch.float32)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,1), dtype=torch.float32)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):",
+        "detail": "tmp.test copy 4",
+        "documentation": {}
+    },
+    {
+        "label": "input_dim",
+        "kind": 5,
+        "importPath": "tmp.test copy 4",
+        "description": "tmp.test copy 4",
+        "peekOfCode": "input_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,1), dtype=torch.float32)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,1), dtype=torch.float32)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):",
+        "detail": "tmp.test copy 4",
+        "documentation": {}
+    },
+    {
+        "label": "train_size",
+        "kind": 5,
+        "importPath": "tmp.test copy 4",
+        "description": "tmp.test copy 4",
+        "peekOfCode": "train_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,1), dtype=torch.float32)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,1), dtype=torch.float32)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()",
+        "detail": "tmp.test copy 4",
+        "documentation": {}
+    },
+    {
+        "label": "test_size",
+        "kind": 5,
+        "importPath": "tmp.test copy 4",
+        "description": "tmp.test copy 4",
+        "peekOfCode": "test_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,1), dtype=torch.float32)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,1), dtype=torch.float32)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network",
+        "detail": "tmp.test copy 4",
+        "documentation": {}
+    },
+    {
+        "label": "train_inputs",
+        "kind": 5,
+        "importPath": "tmp.test copy 4",
+        "description": "tmp.test copy 4",
+        "peekOfCode": "train_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,1), dtype=torch.float32)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,1), dtype=torch.float32)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network\n        self.encoder = nn.Sequential(",
+        "detail": "tmp.test copy 4",
+        "documentation": {}
+    },
+    {
+        "label": "train_labels",
+        "kind": 5,
+        "importPath": "tmp.test copy 4",
+        "description": "tmp.test copy 4",
+        "peekOfCode": "train_labels = torch.randint(0, 2, (train_size,1), dtype=torch.float32)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,1), dtype=torch.float32)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network\n        self.encoder = nn.Sequential(\n            nn.Linear(input_dim, hidden_dim),",
+        "detail": "tmp.test copy 4",
+        "documentation": {}
+    },
+    {
+        "label": "test_inputs",
+        "kind": 5,
+        "importPath": "tmp.test copy 4",
+        "description": "tmp.test copy 4",
+        "peekOfCode": "test_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,1), dtype=torch.float32)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network\n        self.encoder = nn.Sequential(\n            nn.Linear(input_dim, hidden_dim),\n            nn.ReLU(),",
+        "detail": "tmp.test copy 4",
+        "documentation": {}
+    },
+    {
+        "label": "test_labels",
+        "kind": 5,
+        "importPath": "tmp.test copy 4",
+        "description": "tmp.test copy 4",
+        "peekOfCode": "test_labels = torch.randint(0, 2, (test_size,1), dtype=torch.float32)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network\n        self.encoder = nn.Sequential(\n            nn.Linear(input_dim, hidden_dim),\n            nn.ReLU(),\n            nn.Linear(hidden_dim, hidden_dim),",
+        "detail": "tmp.test copy 4",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "tmp.test copy 4",
+        "description": "tmp.test copy 4",
+        "peekOfCode": "model = EncoderDecoderBinaryClassifier(input_dim, hidden_dim, output_dim)\n# Define loss and optimizer\ncriterion = nn.BCELoss()  # Binary Cross-Entropy Loss\noptimizer = optim.Adam(model.parameters(), lr=0.001)\n# Training loop\nnum_epochs = 60  # Replace with the desired number of epochs\nfor epoch in range(num_epochs):\n    # Forward pass\n    reconstructed, logits = model(train_inputs)\n    # Compute loss",
+        "detail": "tmp.test copy 4",
+        "documentation": {}
+    },
+    {
+        "label": "criterion",
+        "kind": 5,
+        "importPath": "tmp.test copy 4",
+        "description": "tmp.test copy 4",
+        "peekOfCode": "criterion = nn.BCELoss()  # Binary Cross-Entropy Loss\noptimizer = optim.Adam(model.parameters(), lr=0.001)\n# Training loop\nnum_epochs = 60  # Replace with the desired number of epochs\nfor epoch in range(num_epochs):\n    # Forward pass\n    reconstructed, logits = model(train_inputs)\n    # Compute loss\n    loss = criterion(logits, train_labels)\n    # Backpropagation and optimization",
+        "detail": "tmp.test copy 4",
+        "documentation": {}
+    },
+    {
+        "label": "optimizer",
+        "kind": 5,
+        "importPath": "tmp.test copy 4",
+        "description": "tmp.test copy 4",
+        "peekOfCode": "optimizer = optim.Adam(model.parameters(), lr=0.001)\n# Training loop\nnum_epochs = 60  # Replace with the desired number of epochs\nfor epoch in range(num_epochs):\n    # Forward pass\n    reconstructed, logits = model(train_inputs)\n    # Compute loss\n    loss = criterion(logits, train_labels)\n    # Backpropagation and optimization\n    optimizer.zero_grad()",
+        "detail": "tmp.test copy 4",
+        "documentation": {}
+    },
+    {
+        "label": "num_epochs",
+        "kind": 5,
+        "importPath": "tmp.test copy 4",
+        "description": "tmp.test copy 4",
+        "peekOfCode": "num_epochs = 60  # Replace with the desired number of epochs\nfor epoch in range(num_epochs):\n    # Forward pass\n    reconstructed, logits = model(train_inputs)\n    # Compute loss\n    loss = criterion(logits, train_labels)\n    # Backpropagation and optimization\n    optimizer.zero_grad()\n    loss.backward()\n    optimizer.step()",
+        "detail": "tmp.test copy 4",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy",
+        "kind": 5,
+        "importPath": "tmp.test copy 4",
+        "description": "tmp.test copy 4",
+        "peekOfCode": "accuracy = accuracy_score(test_labels, predicted_labels)\nprecision = precision_score(test_labels, predicted_labels)\nrecall = recall_score(test_labels, predicted_labels)\nf1 = f1_score(test_labels, predicted_labels)\nprint(f\"Accuracy: {accuracy:.4f}\")\nprint(f\"Precision: {precision:.4f}\")\nprint(f\"Recall: {recall:.4f}\")\nprint(f\"F1-score: {f1:.4f}\")\n# # After training, you can use the model for inference\n# with torch.no_grad():",
+        "detail": "tmp.test copy 4",
+        "documentation": {}
+    },
+    {
+        "label": "precision",
+        "kind": 5,
+        "importPath": "tmp.test copy 4",
+        "description": "tmp.test copy 4",
+        "peekOfCode": "precision = precision_score(test_labels, predicted_labels)\nrecall = recall_score(test_labels, predicted_labels)\nf1 = f1_score(test_labels, predicted_labels)\nprint(f\"Accuracy: {accuracy:.4f}\")\nprint(f\"Precision: {precision:.4f}\")\nprint(f\"Recall: {recall:.4f}\")\nprint(f\"F1-score: {f1:.4f}\")\n# # After training, you can use the model for inference\n# with torch.no_grad():\n#     test_inputs = torch.randn(10, input_dim)  # Example batch of test inputs",
+        "detail": "tmp.test copy 4",
+        "documentation": {}
+    },
+    {
+        "label": "recall",
+        "kind": 5,
+        "importPath": "tmp.test copy 4",
+        "description": "tmp.test copy 4",
+        "peekOfCode": "recall = recall_score(test_labels, predicted_labels)\nf1 = f1_score(test_labels, predicted_labels)\nprint(f\"Accuracy: {accuracy:.4f}\")\nprint(f\"Precision: {precision:.4f}\")\nprint(f\"Recall: {recall:.4f}\")\nprint(f\"F1-score: {f1:.4f}\")\n# # After training, you can use the model for inference\n# with torch.no_grad():\n#     test_inputs = torch.randn(10, input_dim)  # Example batch of test inputs\n#     _, predicted_logits = model(test_inputs)",
+        "detail": "tmp.test copy 4",
+        "documentation": {}
+    },
+    {
+        "label": "f1",
+        "kind": 5,
+        "importPath": "tmp.test copy 4",
+        "description": "tmp.test copy 4",
+        "peekOfCode": "f1 = f1_score(test_labels, predicted_labels)\nprint(f\"Accuracy: {accuracy:.4f}\")\nprint(f\"Precision: {precision:.4f}\")\nprint(f\"Recall: {recall:.4f}\")\nprint(f\"F1-score: {f1:.4f}\")\n# # After training, you can use the model for inference\n# with torch.no_grad():\n#     test_inputs = torch.randn(10, input_dim)  # Example batch of test inputs\n#     _, predicted_logits = model(test_inputs)\n#     predicted_labels = (predicted_logits > 0.5).float()  # Convert logits to binary predictions",
+        "detail": "tmp.test copy 4",
+        "documentation": {}
+    },
+    {
+        "label": "EncoderDecoderBinaryClassifier",
+        "kind": 6,
+        "importPath": "tmp.test copy 5",
+        "description": "tmp.test copy 5",
+        "peekOfCode": "class EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network\n        self.encoder = nn.Sequential(\n            nn.Linear(input_dim, hidden_dim),\n            nn.ReLU(),\n            nn.Linear(hidden_dim, hidden_dim),\n            nn.ReLU()\n        )",
+        "detail": "tmp.test copy 5",
+        "documentation": {}
+    },
+    {
+        "label": "input_dim",
+        "kind": 5,
+        "importPath": "tmp.test copy 5",
+        "description": "tmp.test copy 5",
+        "peekOfCode": "input_dim = 100  # Dimensionality of input features\nnum_samples = 1000  # Number of training samples\nhidden_dim = 64\noutput_dim = 1  # Binary classification, so output dimension is 1\n# Generate random input data and labels for the example\ninputs = torch.randn(num_samples, input_dim)\nlabels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200",
+        "detail": "tmp.test copy 5",
+        "documentation": {}
+    },
+    {
+        "label": "num_samples",
+        "kind": 5,
+        "importPath": "tmp.test copy 5",
+        "description": "tmp.test copy 5",
+        "peekOfCode": "num_samples = 1000  # Number of training samples\nhidden_dim = 64\noutput_dim = 1  # Binary classification, so output dimension is 1\n# Generate random input data and labels for the example\ninputs = torch.randn(num_samples, input_dim)\nlabels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)",
+        "detail": "tmp.test copy 5",
+        "documentation": {}
+    },
+    {
+        "label": "hidden_dim",
+        "kind": 5,
+        "importPath": "tmp.test copy 5",
+        "description": "tmp.test copy 5",
+        "peekOfCode": "hidden_dim = 64\noutput_dim = 1  # Binary classification, so output dimension is 1\n# Generate random input data and labels for the example\ninputs = torch.randn(num_samples, input_dim)\nlabels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,1), dtype=torch.float32)  # Binary labels (0 or 1)",
+        "detail": "tmp.test copy 5",
+        "documentation": {}
+    },
+    {
+        "label": "output_dim",
+        "kind": 5,
+        "importPath": "tmp.test copy 5",
+        "description": "tmp.test copy 5",
+        "peekOfCode": "output_dim = 1  # Binary classification, so output dimension is 1\n# Generate random input data and labels for the example\ninputs = torch.randn(num_samples, input_dim)\nlabels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,1), dtype=torch.float32)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)",
+        "detail": "tmp.test copy 5",
+        "documentation": {}
+    },
+    {
+        "label": "inputs",
+        "kind": 5,
+        "importPath": "tmp.test copy 5",
+        "description": "tmp.test copy 5",
+        "peekOfCode": "inputs = torch.randn(num_samples, input_dim)\nlabels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,1), dtype=torch.float32)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,1), dtype=torch.float32)\n# Define the Encoder-Decoder binary classifier",
+        "detail": "tmp.test copy 5",
+        "documentation": {}
+    },
+    {
+        "label": "labels",
+        "kind": 5,
+        "importPath": "tmp.test copy 5",
+        "description": "tmp.test copy 5",
+        "peekOfCode": "labels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,1), dtype=torch.float32)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,1), dtype=torch.float32)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):",
+        "detail": "tmp.test copy 5",
+        "documentation": {}
+    },
+    {
+        "label": "input_dim",
+        "kind": 5,
+        "importPath": "tmp.test copy 5",
+        "description": "tmp.test copy 5",
+        "peekOfCode": "input_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,1), dtype=torch.float32)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,1), dtype=torch.float32)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):",
+        "detail": "tmp.test copy 5",
+        "documentation": {}
+    },
+    {
+        "label": "train_size",
+        "kind": 5,
+        "importPath": "tmp.test copy 5",
+        "description": "tmp.test copy 5",
+        "peekOfCode": "train_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,1), dtype=torch.float32)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,1), dtype=torch.float32)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()",
+        "detail": "tmp.test copy 5",
+        "documentation": {}
+    },
+    {
+        "label": "test_size",
+        "kind": 5,
+        "importPath": "tmp.test copy 5",
+        "description": "tmp.test copy 5",
+        "peekOfCode": "test_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,1), dtype=torch.float32)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,1), dtype=torch.float32)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network",
+        "detail": "tmp.test copy 5",
+        "documentation": {}
+    },
+    {
+        "label": "train_inputs",
+        "kind": 5,
+        "importPath": "tmp.test copy 5",
+        "description": "tmp.test copy 5",
+        "peekOfCode": "train_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,1), dtype=torch.float32)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,1), dtype=torch.float32)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network\n        self.encoder = nn.Sequential(",
+        "detail": "tmp.test copy 5",
+        "documentation": {}
+    },
+    {
+        "label": "train_labels",
+        "kind": 5,
+        "importPath": "tmp.test copy 5",
+        "description": "tmp.test copy 5",
+        "peekOfCode": "train_labels = torch.randint(0, 2, (train_size,1), dtype=torch.float32)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,1), dtype=torch.float32)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network\n        self.encoder = nn.Sequential(\n            nn.Linear(input_dim, hidden_dim),",
+        "detail": "tmp.test copy 5",
+        "documentation": {}
+    },
+    {
+        "label": "test_inputs",
+        "kind": 5,
+        "importPath": "tmp.test copy 5",
+        "description": "tmp.test copy 5",
+        "peekOfCode": "test_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,1), dtype=torch.float32)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network\n        self.encoder = nn.Sequential(\n            nn.Linear(input_dim, hidden_dim),\n            nn.ReLU(),",
+        "detail": "tmp.test copy 5",
+        "documentation": {}
+    },
+    {
+        "label": "test_labels",
+        "kind": 5,
+        "importPath": "tmp.test copy 5",
+        "description": "tmp.test copy 5",
+        "peekOfCode": "test_labels = torch.randint(0, 2, (test_size,1), dtype=torch.float32)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network\n        self.encoder = nn.Sequential(\n            nn.Linear(input_dim, hidden_dim),\n            nn.ReLU(),\n            nn.Linear(hidden_dim, hidden_dim),",
+        "detail": "tmp.test copy 5",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "tmp.test copy 5",
+        "description": "tmp.test copy 5",
+        "peekOfCode": "model = EncoderDecoderBinaryClassifier(input_dim, hidden_dim, output_dim)\n# Define loss and optimizer\ncriterion = nn.BCELoss()  # Binary Cross-Entropy Loss\noptimizer = optim.Adam(model.parameters(), lr=0.001)\n# Training loop\nnum_epochs = 60  # Replace with the desired number of epochs\nfor epoch in range(num_epochs):\n    # Forward pass\n    reconstructed, logits = model(train_inputs)\n    # Compute loss",
+        "detail": "tmp.test copy 5",
+        "documentation": {}
+    },
+    {
+        "label": "criterion",
+        "kind": 5,
+        "importPath": "tmp.test copy 5",
+        "description": "tmp.test copy 5",
+        "peekOfCode": "criterion = nn.BCELoss()  # Binary Cross-Entropy Loss\noptimizer = optim.Adam(model.parameters(), lr=0.001)\n# Training loop\nnum_epochs = 60  # Replace with the desired number of epochs\nfor epoch in range(num_epochs):\n    # Forward pass\n    reconstructed, logits = model(train_inputs)\n    # Compute loss\n    loss = criterion(logits, train_labels)\n    # Backpropagation and optimization",
+        "detail": "tmp.test copy 5",
+        "documentation": {}
+    },
+    {
+        "label": "optimizer",
+        "kind": 5,
+        "importPath": "tmp.test copy 5",
+        "description": "tmp.test copy 5",
+        "peekOfCode": "optimizer = optim.Adam(model.parameters(), lr=0.001)\n# Training loop\nnum_epochs = 60  # Replace with the desired number of epochs\nfor epoch in range(num_epochs):\n    # Forward pass\n    reconstructed, logits = model(train_inputs)\n    # Compute loss\n    loss = criterion(logits, train_labels)\n    # Backpropagation and optimization\n    optimizer.zero_grad()",
+        "detail": "tmp.test copy 5",
+        "documentation": {}
+    },
+    {
+        "label": "num_epochs",
+        "kind": 5,
+        "importPath": "tmp.test copy 5",
+        "description": "tmp.test copy 5",
+        "peekOfCode": "num_epochs = 60  # Replace with the desired number of epochs\nfor epoch in range(num_epochs):\n    # Forward pass\n    reconstructed, logits = model(train_inputs)\n    # Compute loss\n    loss = criterion(logits, train_labels)\n    # Backpropagation and optimization\n    optimizer.zero_grad()\n    loss.backward()\n    optimizer.step()",
+        "detail": "tmp.test copy 5",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy",
+        "kind": 5,
+        "importPath": "tmp.test copy 5",
+        "description": "tmp.test copy 5",
+        "peekOfCode": "accuracy = accuracy_score(test_labels, predicted_labels)\nprecision = precision_score(test_labels, predicted_labels)\nrecall = recall_score(test_labels, predicted_labels)\nf1 = f1_score(test_labels, predicted_labels)\nprint(f\"Accuracy: {accuracy:.4f}\")\nprint(f\"Precision: {precision:.4f}\")\nprint(f\"Recall: {recall:.4f}\")\nprint(f\"F1-score: {f1:.4f}\")\n# # After training, you can use the model for inference\n# with torch.no_grad():",
+        "detail": "tmp.test copy 5",
+        "documentation": {}
+    },
+    {
+        "label": "precision",
+        "kind": 5,
+        "importPath": "tmp.test copy 5",
+        "description": "tmp.test copy 5",
+        "peekOfCode": "precision = precision_score(test_labels, predicted_labels)\nrecall = recall_score(test_labels, predicted_labels)\nf1 = f1_score(test_labels, predicted_labels)\nprint(f\"Accuracy: {accuracy:.4f}\")\nprint(f\"Precision: {precision:.4f}\")\nprint(f\"Recall: {recall:.4f}\")\nprint(f\"F1-score: {f1:.4f}\")\n# # After training, you can use the model for inference\n# with torch.no_grad():\n#     test_inputs = torch.randn(10, input_dim)  # Example batch of test inputs",
+        "detail": "tmp.test copy 5",
+        "documentation": {}
+    },
+    {
+        "label": "recall",
+        "kind": 5,
+        "importPath": "tmp.test copy 5",
+        "description": "tmp.test copy 5",
+        "peekOfCode": "recall = recall_score(test_labels, predicted_labels)\nf1 = f1_score(test_labels, predicted_labels)\nprint(f\"Accuracy: {accuracy:.4f}\")\nprint(f\"Precision: {precision:.4f}\")\nprint(f\"Recall: {recall:.4f}\")\nprint(f\"F1-score: {f1:.4f}\")\n# # After training, you can use the model for inference\n# with torch.no_grad():\n#     test_inputs = torch.randn(10, input_dim)  # Example batch of test inputs\n#     _, predicted_logits = model(test_inputs)",
+        "detail": "tmp.test copy 5",
+        "documentation": {}
+    },
+    {
+        "label": "f1",
+        "kind": 5,
+        "importPath": "tmp.test copy 5",
+        "description": "tmp.test copy 5",
+        "peekOfCode": "f1 = f1_score(test_labels, predicted_labels)\nprint(f\"Accuracy: {accuracy:.4f}\")\nprint(f\"Precision: {precision:.4f}\")\nprint(f\"Recall: {recall:.4f}\")\nprint(f\"F1-score: {f1:.4f}\")\n# # After training, you can use the model for inference\n# with torch.no_grad():\n#     test_inputs = torch.randn(10, input_dim)  # Example batch of test inputs\n#     _, predicted_logits = model(test_inputs)\n#     predicted_labels = (predicted_logits > 0.5).float()  # Convert logits to binary predictions",
+        "detail": "tmp.test copy 5",
+        "documentation": {}
+    },
+    {
+        "label": "EncoderDecoderBinaryClassifier",
+        "kind": 6,
+        "importPath": "tmp.test copy",
+        "description": "tmp.test copy",
+        "peekOfCode": "class EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network\n        self.encoder = nn.Sequential(\n            nn.Linear(input_dim, hidden_dim),\n            nn.ReLU(),\n            nn.Linear(hidden_dim, hidden_dim),\n            nn.ReLU()\n        )",
+        "detail": "tmp.test copy",
+        "documentation": {}
+    },
+    {
+        "label": "input_dim",
+        "kind": 5,
+        "importPath": "tmp.test copy",
+        "description": "tmp.test copy",
+        "peekOfCode": "input_dim = 100  # Dimensionality of input features\nnum_samples = 1000  # Number of training samples\nhidden_dim = 64\noutput_dim = 1  # Binary classification, so output dimension is 1\n# Generate random input data and labels for the example\ninputs = torch.randn(num_samples, input_dim)\nlabels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200",
+        "detail": "tmp.test copy",
+        "documentation": {}
+    },
+    {
+        "label": "num_samples",
+        "kind": 5,
+        "importPath": "tmp.test copy",
+        "description": "tmp.test copy",
+        "peekOfCode": "num_samples = 1000  # Number of training samples\nhidden_dim = 64\noutput_dim = 1  # Binary classification, so output dimension is 1\n# Generate random input data and labels for the example\ninputs = torch.randn(num_samples, input_dim)\nlabels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)",
+        "detail": "tmp.test copy",
+        "documentation": {}
+    },
+    {
+        "label": "hidden_dim",
+        "kind": 5,
+        "importPath": "tmp.test copy",
+        "description": "tmp.test copy",
+        "peekOfCode": "hidden_dim = 64\noutput_dim = 1  # Binary classification, so output dimension is 1\n# Generate random input data and labels for the example\ninputs = torch.randn(num_samples, input_dim)\nlabels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,), dtype=torch.long)  # Binary labels (0 or 1)",
+        "detail": "tmp.test copy",
+        "documentation": {}
+    },
+    {
+        "label": "output_dim",
+        "kind": 5,
+        "importPath": "tmp.test copy",
+        "description": "tmp.test copy",
+        "peekOfCode": "output_dim = 1  # Binary classification, so output dimension is 1\n# Generate random input data and labels for the example\ninputs = torch.randn(num_samples, input_dim)\nlabels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,), dtype=torch.long)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)",
+        "detail": "tmp.test copy",
+        "documentation": {}
+    },
+    {
+        "label": "inputs",
+        "kind": 5,
+        "importPath": "tmp.test copy",
+        "description": "tmp.test copy",
+        "peekOfCode": "inputs = torch.randn(num_samples, input_dim)\nlabels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,), dtype=torch.long)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define the Encoder-Decoder binary classifier",
+        "detail": "tmp.test copy",
+        "documentation": {}
+    },
+    {
+        "label": "labels",
+        "kind": 5,
+        "importPath": "tmp.test copy",
+        "description": "tmp.test copy",
+        "peekOfCode": "labels = torch.randint(0, 2, (num_samples, 1), dtype=torch.float32)  # Binary labels (0 or 1)\ninput_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,), dtype=torch.long)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):",
+        "detail": "tmp.test copy",
+        "documentation": {}
+    },
+    {
+        "label": "input_dim",
+        "kind": 5,
+        "importPath": "tmp.test copy",
+        "description": "tmp.test copy",
+        "peekOfCode": "input_dim = 100\ntrain_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,), dtype=torch.long)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):",
+        "detail": "tmp.test copy",
+        "documentation": {}
+    },
+    {
+        "label": "train_size",
+        "kind": 5,
+        "importPath": "tmp.test copy",
+        "description": "tmp.test copy",
+        "peekOfCode": "train_size = 800\ntest_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,), dtype=torch.long)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()",
+        "detail": "tmp.test copy",
+        "documentation": {}
+    },
+    {
+        "label": "test_size",
+        "kind": 5,
+        "importPath": "tmp.test copy",
+        "description": "tmp.test copy",
+        "peekOfCode": "test_size = 200\ntrain_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,), dtype=torch.long)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network",
+        "detail": "tmp.test copy",
+        "documentation": {}
+    },
+    {
+        "label": "train_inputs",
+        "kind": 5,
+        "importPath": "tmp.test copy",
+        "description": "tmp.test copy",
+        "peekOfCode": "train_inputs = torch.randn(train_size, input_dim)\ntrain_labels = torch.randint(0, 2, (train_size,), dtype=torch.long)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network\n        self.encoder = nn.Sequential(",
+        "detail": "tmp.test copy",
+        "documentation": {}
+    },
+    {
+        "label": "train_labels",
+        "kind": 5,
+        "importPath": "tmp.test copy",
+        "description": "tmp.test copy",
+        "peekOfCode": "train_labels = torch.randint(0, 2, (train_size,), dtype=torch.long)  # Binary labels (0 or 1)\ntest_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network\n        self.encoder = nn.Sequential(\n            nn.Linear(input_dim, hidden_dim),",
+        "detail": "tmp.test copy",
+        "documentation": {}
+    },
+    {
+        "label": "test_inputs",
+        "kind": 5,
+        "importPath": "tmp.test copy",
+        "description": "tmp.test copy",
+        "peekOfCode": "test_inputs = torch.randn(test_size, input_dim)\ntest_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network\n        self.encoder = nn.Sequential(\n            nn.Linear(input_dim, hidden_dim),\n            nn.ReLU(),",
+        "detail": "tmp.test copy",
+        "documentation": {}
+    },
+    {
+        "label": "test_labels",
+        "kind": 5,
+        "importPath": "tmp.test copy",
+        "description": "tmp.test copy",
+        "peekOfCode": "test_labels = torch.randint(0, 2, (test_size,), dtype=torch.long)\n# Define the Encoder-Decoder binary classifier\nclass EncoderDecoderBinaryClassifier(nn.Module):\n    def __init__(self, input_dim, hidden_dim, output_dim):\n        super(EncoderDecoderBinaryClassifier, self).__init__()\n        # Encoder network\n        self.encoder = nn.Sequential(\n            nn.Linear(input_dim, hidden_dim),\n            nn.ReLU(),\n            nn.Linear(hidden_dim, hidden_dim),",
+        "detail": "tmp.test copy",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "tmp.test copy",
+        "description": "tmp.test copy",
+        "peekOfCode": "model = EncoderDecoderBinaryClassifier(input_dim, hidden_dim, output_dim)\n# Define loss and optimizer\ncriterion = nn.BCELoss()  # Binary Cross-Entropy Loss\noptimizer = optim.Adam(model.parameters(), lr=0.001)\n# Training loop\nnum_epochs = 100  # Replace with the desired number of epochs\nfor epoch in range(num_epochs):\n    # Forward pass\n    reconstructed, logits = model(train_inputs)\n    # Compute loss",
+        "detail": "tmp.test copy",
+        "documentation": {}
+    },
+    {
+        "label": "criterion",
+        "kind": 5,
+        "importPath": "tmp.test copy",
+        "description": "tmp.test copy",
+        "peekOfCode": "criterion = nn.BCELoss()  # Binary Cross-Entropy Loss\noptimizer = optim.Adam(model.parameters(), lr=0.001)\n# Training loop\nnum_epochs = 100  # Replace with the desired number of epochs\nfor epoch in range(num_epochs):\n    # Forward pass\n    reconstructed, logits = model(train_inputs)\n    # Compute loss\n    loss = criterion(logits, train_labels)\n    # Backpropagation and optimization",
+        "detail": "tmp.test copy",
+        "documentation": {}
+    },
+    {
+        "label": "optimizer",
+        "kind": 5,
+        "importPath": "tmp.test copy",
+        "description": "tmp.test copy",
+        "peekOfCode": "optimizer = optim.Adam(model.parameters(), lr=0.001)\n# Training loop\nnum_epochs = 100  # Replace with the desired number of epochs\nfor epoch in range(num_epochs):\n    # Forward pass\n    reconstructed, logits = model(train_inputs)\n    # Compute loss\n    loss = criterion(logits, train_labels)\n    # Backpropagation and optimization\n    optimizer.zero_grad()",
+        "detail": "tmp.test copy",
+        "documentation": {}
+    },
+    {
+        "label": "num_epochs",
+        "kind": 5,
+        "importPath": "tmp.test copy",
+        "description": "tmp.test copy",
+        "peekOfCode": "num_epochs = 100  # Replace with the desired number of epochs\nfor epoch in range(num_epochs):\n    # Forward pass\n    reconstructed, logits = model(train_inputs)\n    # Compute loss\n    loss = criterion(logits, train_labels)\n    # Backpropagation and optimization\n    optimizer.zero_grad()\n    loss.backward()\n    optimizer.step()",
+        "detail": "tmp.test copy",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy",
+        "kind": 5,
+        "importPath": "tmp.test copy",
+        "description": "tmp.test copy",
+        "peekOfCode": "accuracy = accuracy_score(test_labels.numpy(), predicted_labels.numpy())\nprecision = precision_score(test_labels.numpy(), predicted_labels.numpy())\nrecall = recall_score(test_labels.numpy(), predicted_labels.numpy())\nf1 = f1_score(test_labels.numpy(), predicted_labels.numpy())\nprint(f\"Accuracy: {accuracy:.4f}\")\nprint(f\"Precision: {precision:.4f}\")\nprint(f\"Recall: {recall:.4f}\")\nprint(f\"F1-score: {f1:.4f}\")\n# # After training, you can use the model for inference\n# with torch.no_grad():",
+        "detail": "tmp.test copy",
+        "documentation": {}
+    },
+    {
+        "label": "precision",
+        "kind": 5,
+        "importPath": "tmp.test copy",
+        "description": "tmp.test copy",
+        "peekOfCode": "precision = precision_score(test_labels.numpy(), predicted_labels.numpy())\nrecall = recall_score(test_labels.numpy(), predicted_labels.numpy())\nf1 = f1_score(test_labels.numpy(), predicted_labels.numpy())\nprint(f\"Accuracy: {accuracy:.4f}\")\nprint(f\"Precision: {precision:.4f}\")\nprint(f\"Recall: {recall:.4f}\")\nprint(f\"F1-score: {f1:.4f}\")\n# # After training, you can use the model for inference\n# with torch.no_grad():\n#     test_inputs = torch.randn(10, input_dim)  # Example batch of test inputs",
+        "detail": "tmp.test copy",
+        "documentation": {}
+    },
+    {
+        "label": "recall",
+        "kind": 5,
+        "importPath": "tmp.test copy",
+        "description": "tmp.test copy",
+        "peekOfCode": "recall = recall_score(test_labels.numpy(), predicted_labels.numpy())\nf1 = f1_score(test_labels.numpy(), predicted_labels.numpy())\nprint(f\"Accuracy: {accuracy:.4f}\")\nprint(f\"Precision: {precision:.4f}\")\nprint(f\"Recall: {recall:.4f}\")\nprint(f\"F1-score: {f1:.4f}\")\n# # After training, you can use the model for inference\n# with torch.no_grad():\n#     test_inputs = torch.randn(10, input_dim)  # Example batch of test inputs\n#     _, predicted_logits = model(test_inputs)",
+        "detail": "tmp.test copy",
+        "documentation": {}
+    },
+    {
+        "label": "f1",
+        "kind": 5,
+        "importPath": "tmp.test copy",
+        "description": "tmp.test copy",
+        "peekOfCode": "f1 = f1_score(test_labels.numpy(), predicted_labels.numpy())\nprint(f\"Accuracy: {accuracy:.4f}\")\nprint(f\"Precision: {precision:.4f}\")\nprint(f\"Recall: {recall:.4f}\")\nprint(f\"F1-score: {f1:.4f}\")\n# # After training, you can use the model for inference\n# with torch.no_grad():\n#     test_inputs = torch.randn(10, input_dim)  # Example batch of test inputs\n#     _, predicted_logits = model(test_inputs)\n#     predicted_labels = (predicted_logits > 0.5).float()  # Convert logits to binary predictions",
+        "detail": "tmp.test copy",
+        "documentation": {}
+    },
+    {
+        "label": "Architecture",
+        "kind": 6,
+        "importPath": "architecture",
+        "description": "architecture",
+        "peekOfCode": "class Architecture:\n    def __init__(self, X_train, X_test, y_train, y_test):\n        print('Architecture Classifier')\n        # train data\n        self.X_train = np.array(X_train)\n        # self.X_train = X_train\n        self.y_train = np.array(y_train)\n        # test data\n        self.X_test = np.array(X_test)\n        # self.X_test = X_test",
+        "detail": "architecture",
         "documentation": {}
     },
     {
@@ -188,7 +1882,7 @@
         "kind": 6,
         "importPath": "histogram",
         "description": "histogram",
-        "peekOfCode": "class Main: \n    def __init__(self, input_path='', output_path='', suffix=''):\n        self.input_path = input_path\n        self.output_path = output_path\n        self.suffix = suffix\n        self.dimensions = [i*10 for i in range(1, 6)]\n        self.classifiers = [\"AdaBoostClassifier\", \"RandomForestClassifier\",    \"XGBClassifier\",    \"ExtraTreesClassifier\", \"LogisticRegression\", \"SVC\", \"KNeighborsClassifier\", \"DecisionTreeClassifier\",    \"GaussianNB\",    \"LGBMClassifier\"]\n        self.class_by_dim = {}\n        self.start_time = time.time()\n    def plot_data(self, data=[], metric=''):",
+        "peekOfCode": "class Main:\n    def __init__(self, input_path='', output_path='', suffix=''):\n        self.input_path = input_path\n        self.output_path = output_path\n        self.suffix = suffix\n        self.dimensions = [i*10 for i in range(1, 6)]\n        self.classifiers = [\"AdaBoostClassifier\", \"RandomForestClassifier\",    \"XGBClassifier\",    \"ExtraTreeClassifier\",\n                            \"LogisticRegression\", \"SVC\", \"KNeighborsClassifier\", \"DecisionTreeClassifier\",  \"GaussianNB\"]  # ,    \"GradientBoostinglassifier\"]\n        self.class_by_dim = {}\n        self.short_classifier = {",
         "detail": "histogram",
         "documentation": {}
     },
@@ -197,7 +1891,7 @@
         "kind": 6,
         "importPath": "main",
         "description": "main",
-        "peekOfCode": "class Main: \n    def __init__(self, input_path='', output_path='', suffix=''):\n        self.input_path = input_path + suffix + '/feature_vector/'\n        self.output_path = output_path + suffix + '/'\n        self.suffix = suffix\n        files = ComputeFile(input_path=self.input_path).build_list_files()\n        test_file = self.filter(keyword='test', all=files)\n        self.test_data = self.read_csv(test_file)\n        train_file = self.filter(keyword='train', all=files)\n        self.train_data = self.read_csv(train_file)",
+        "peekOfCode": "class Main:\n    def __init__(self, input_path='', output_path='', suffix=''):\n        self.input_path = input_path + suffix + '/feature_vector/'\n        self.output_path = output_path + suffix + '/'\n        self.suffix = suffix\n        files = ComputeFile(input_path=self.input_path).build_list_files()\n        test_file = self.filter(keyword='test', all=files)\n        self.test_data = self.read_csv(test_file)\n        print(test_file)\n        train_file = self.filter(keyword='train', all=files)",
         "detail": "main",
         "documentation": {}
     },
@@ -206,62 +1900,8 @@
         "kind": 6,
         "importPath": "sota",
         "description": "sota",
-        "peekOfCode": "class Main: \n    def __init__(self, input_path='', output_path='', suffix=''):\n        self.input_path = input_path + suffix + '/feature_vector/'\n        self.output_path = output_path + suffix + '/'\n        self.suffix = suffix\n        files = ComputeFile(input_path=self.input_path).build_list_files()\n        test_file = self.filter(keyword='test', all=files)\n        self.test_data = self.read_csv(test_file)\n        train_file = self.filter(keyword='train', all=files)\n        self.train_data = self.read_csv(train_file)",
+        "peekOfCode": "class Main:\n    def __init__(self, input_path='', output_path='', suffix=''):\n        self.input_path = input_path + suffix + '/feature_vector/'\n        self.output_path = output_path + suffix + '/'\n        self.suffix = suffix\n        files = ComputeFile(input_path=self.input_path).build_list_files()\n        test_file = self.filter(keyword='test', all=files)\n        self.test_data = self.read_csv(test_file)\n        train_file = self.filter(keyword='train', all=files)\n        self.train_data = self.read_csv(train_file)",
         "detail": "sota",
-        "documentation": {}
-    },
-    {
-        "label": "coins",
-        "kind": 5,
-        "importPath": "test",
-        "description": "test",
-        "peekOfCode": "coins = ['penny', 'nickle', 'dime', 'quarter', 'bill']\nworth = np.array([.01, .05, .10, .25, 0.4])\n# Coin values times *n* coins\n#    This controls how many bars we get in each group\nvalues = [worth for i in range(1,8)]\nprint(values)\nn = len(values)                # Number of bars to plot\nw = .15                        # With of each column\nx = np.arange(0, len(coins))   # Center position of group on x axis\nfor i, value in enumerate(values):",
-        "detail": "test",
-        "documentation": {}
-    },
-    {
-        "label": "worth",
-        "kind": 5,
-        "importPath": "test",
-        "description": "test",
-        "peekOfCode": "worth = np.array([.01, .05, .10, .25, 0.4])\n# Coin values times *n* coins\n#    This controls how many bars we get in each group\nvalues = [worth for i in range(1,8)]\nprint(values)\nn = len(values)                # Number of bars to plot\nw = .15                        # With of each column\nx = np.arange(0, len(coins))   # Center position of group on x axis\nfor i, value in enumerate(values):\n    position = x + (w*(1-n)/2) + i*w",
-        "detail": "test",
-        "documentation": {}
-    },
-    {
-        "label": "values",
-        "kind": 5,
-        "importPath": "test",
-        "description": "test",
-        "peekOfCode": "values = [worth for i in range(1,8)]\nprint(values)\nn = len(values)                # Number of bars to plot\nw = .15                        # With of each column\nx = np.arange(0, len(coins))   # Center position of group on x axis\nfor i, value in enumerate(values):\n    position = x + (w*(1-n)/2) + i*w\n    print(len(position), len(value))\n    plt.bar(position, value, width=w, label=f'{i+1}x')\nplt.xticks(x, coins)",
-        "detail": "test",
-        "documentation": {}
-    },
-    {
-        "label": "n",
-        "kind": 5,
-        "importPath": "test",
-        "description": "test",
-        "peekOfCode": "n = len(values)                # Number of bars to plot\nw = .15                        # With of each column\nx = np.arange(0, len(coins))   # Center position of group on x axis\nfor i, value in enumerate(values):\n    position = x + (w*(1-n)/2) + i*w\n    print(len(position), len(value))\n    plt.bar(position, value, width=w, label=f'{i+1}x')\nplt.xticks(x, coins)\nplt.ylabel('Monetary Value')\nplt.gca().yaxis.set_major_formatter(ticker.FormatStrFormatter('$%.2f'))",
-        "detail": "test",
-        "documentation": {}
-    },
-    {
-        "label": "w",
-        "kind": 5,
-        "importPath": "test",
-        "description": "test",
-        "peekOfCode": "w = .15                        # With of each column\nx = np.arange(0, len(coins))   # Center position of group on x axis\nfor i, value in enumerate(values):\n    position = x + (w*(1-n)/2) + i*w\n    print(len(position), len(value))\n    plt.bar(position, value, width=w, label=f'{i+1}x')\nplt.xticks(x, coins)\nplt.ylabel('Monetary Value')\nplt.gca().yaxis.set_major_formatter(ticker.FormatStrFormatter('$%.2f'))\nplt.legend()",
-        "detail": "test",
-        "documentation": {}
-    },
-    {
-        "label": "x",
-        "kind": 5,
-        "importPath": "test",
-        "description": "test",
-        "peekOfCode": "x = np.arange(0, len(coins))   # Center position of group on x axis\nfor i, value in enumerate(values):\n    position = x + (w*(1-n)/2) + i*w\n    print(len(position), len(value))\n    plt.bar(position, value, width=w, label=f'{i+1}x')\nplt.xticks(x, coins)\nplt.ylabel('Monetary Value')\nplt.gca().yaxis.set_major_formatter(ticker.FormatStrFormatter('$%.2f'))\nplt.legend()\nplt.show()",
-        "detail": "test",
         "documentation": {}
     }
 ]
