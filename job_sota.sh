@@ -21,7 +21,7 @@ for dataset in 'anatomy' 'doremus' 'SPIMBENCH_large-2016' 'SPIMBENCH_small-2019'
 do
     for dim in 10 20 30 40 50
     do
-        python3 ./sota.py --input_path ./data/word2vec/ --output_path ./outputs/ --suffix /$dataset-$dim
+        python3 ./sota.py --input_path ./data/inputs/ --output_path ./outputs/ --suffix /$dataset-$dim
         # exit
     done
 done
