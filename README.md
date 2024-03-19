@@ -2,7 +2,10 @@
 
 To reproduce the evaluations you just have to execute the two commands below on the data whose alignment vectors have already been generated with the embeddings.
 
-** We kindly request you to install the python(>= 3.8) dependencies gradually. **
+** We kindly request you to install the python(>= 3.8) dependencies gradually if missing. **
+- Dependancies
+  
+  `$ python -m pip install -r ./requirements.txt`
 
 - Run data on classifiers
 
