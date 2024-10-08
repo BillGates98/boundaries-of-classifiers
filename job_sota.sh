@@ -19,9 +19,15 @@
 for dataset in 'anatomy' 'doremus' 'SPIMBENCH_large-2016' 'SPIMBENCH_small-2019' 'UOBM_small-2016'
 # for dataset in 'SPIMBENCH_large-2016' 'SPIMBENCH_small-2019'
 do
-    for dim in 10 20 30 40 50
+    for dim in 100 150 200 250 # 300
     do
-        python3 ./sota.py --input_path ./data/inputs/ --output_path ./outputs/ --suffix /$dataset-$dim
+        for model in 'RESCAL' 'TransE' 'DistMult' 'r2v' #  'ComplEx' 'TuckER'
+        do
+            mkdir -p ./outputs_balanced/$model/$dataset-$dim
+            mkdir -p ./outputs_unbalanced/$model/$dataset-$dim
+            python3.8 ./sota.py --input_path ./data/inputs_balanced/$model/ --output_path ./outputs_balanced/$model/ --suffix /$dataset-$dim
+            python3.8 ./sota.py --input_path ./data/inputs_unbalanced/$model/ --output_path ./outputs_unbalanced/$model/ --suffix /$dataset-$dim
+        done
         # exit
     done
 done

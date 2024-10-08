@@ -10,11 +10,12 @@ from matplotlib import ticker
 
 class Main:
 
-    def __init__(self, input_path='', output_path='', suffix=''):
+    def __init__(self, input_path='', output_path='', suffix='', model=''):
         self.input_path = input_path
         self.output_path = output_path
         self.suffix = suffix
-        self.dimensions = [i*10 for i in range(1, 6)]
+        self.model = model
+        self.dimensions = [i for i in range(100, 300, 50)]
         self.classifiers = ["AdaBoostClassifier", "RandomForestClassifier",    "XGBClassifier",    "ExtraTreeClassifier",
                             "LogisticRegression", "SVC", "KNeighborsClassifier", "DecisionTreeClassifier",  "GaussianNB"]  # ,    "GradientBoostinglassifier"]
         self.class_by_dim = {}
@@ -29,11 +30,17 @@ class Main:
             'DecisionTreeClassifier': 'DeT',
             'GaussianNB': 'GNB'
         }
+        self.models = {
+            'r2v': 'RDF2Vec',
+            'RESCAL': 'RESCAL',
+            'TransE': 'TransE',
+            'DistMult': 'DistMult',
+        }
         self.start_time = time.time()
 
     def plot_data(self, data=[], metric=''):
         classifiers = self.classifiers
-        dimensions = ['dim-'+str(i*10) for i in range(1, 6)]
+        dimensions = ['dim-'+str(i) for i in range(100, 300, 50)]
         values = np.array(data)
         n = len(values)
         w = .15
@@ -48,6 +55,8 @@ class Main:
                    for i in range(len(classifiers))])
 
         plt.ylabel(self.suffix + ' : ' + metric.lower())
+        plt.title(self.suffix + ' - ' +
+                  self.models[self.model] + ' : ' + metric.lower())
         plt.ylim((0, 1))
         plt.axhline(y=0.5, color='blue', linestyle='--')
         plt.gca().yaxis.set_major_formatter(ticker.FormatStrFormatter('%.2f'))
@@ -78,7 +87,7 @@ class Main:
                 output[_classifier].append(value)
                 visited.append(dim)
         values = []
-        dimensions = ['dim-'+str(i*10) for i in range(1, 6)]
+        dimensions = ['dim-'+str(i) for i in range(100, 300, 50)]
         for dim in range(0, len(dimensions)):
             _values = []
             for i in range(0, len(self.classifiers)):
@@ -107,7 +116,8 @@ if __name__ == '__main__':
         parser.add_argument("--input_path", type=str, default="./data/")
         parser.add_argument("--output_path", type=str, default="./outputs/")
         parser.add_argument("--suffix", type=str, default="anatomy")
+        parser.add_argument("--model", type=str, default="r2v")
         return parser.parse_args()
     args = arg_manager()
     Main(input_path=args.input_path,
-         output_path=args.output_path, suffix=args.suffix).run()
+         output_path=args.output_path, suffix=args.suffix, model=args.model).run()

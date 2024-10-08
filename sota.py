@@ -103,7 +103,8 @@ if __name__ == '__main__':
     def arg_manager():
         parser = argparse.ArgumentParser()
         parser.add_argument("--input_path", type=str, default="./data/")
-        parser.add_argument("--output_path", type=str, default="./outputs/")
+        parser.add_argument("--output_path", type=str,
+                            default="./outputs_balanced/")
         parser.add_argument("--suffix", type=str, default="abt-buy")
         return parser.parse_args()
     args = arg_manager()
